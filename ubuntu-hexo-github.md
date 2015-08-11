@@ -1,7 +1,7 @@
 title: ubuntu14.04搭建hexo+github博客环境
 date: 2015-07-23 16:59:13
-categories: blog
-tags: [hexo]
+categories: hexo
+tags: [hexo, github]
 ---
 ## **安装**
 [Hexo](https://hexo.io/) 是一个快速、简洁、高效的博客框架。Hexo使用Markdown（或者其他渲染引擎）解析文章，在几秒内即可使用靓丽的主体生成静态网页。
