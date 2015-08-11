@@ -35,6 +35,7 @@ npm install -g hexo-cli
 ```bash
 hexo init myhexo
 cd myhexo
+apt-get install npm
 npm install
 ```
 随后会在myhexo下生成一些文件，
