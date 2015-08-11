@@ -5,10 +5,10 @@ tags: [hexo]
 ---
 ## **安装**
 [Hexo](https://hexo.io/) 是一个快速、简洁、高效的博客框架。Hexo使用Markdown（或者其他渲染引擎）解析文章，在几秒内即可使用靓丽的主体生成静态网页。
+<!--more-->
 在安装hexo之前，需要安装如下两个应用程序：
  * [Node.js](https://nodejs.org/)
  * [Git](http://git-scm.com/)
-
 ### **安装Git**
 直接使用命令：sudo apt-get install git-core
 ### **安装Node.js**
